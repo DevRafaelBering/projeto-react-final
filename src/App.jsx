@@ -57,6 +57,7 @@ function MovieList({ movies, search, setSearch }) {
     <main className="movies">
       <div className="header">
         <div className="title-home">
+          <img src="img/tarta.png" alt="logo" />
           <h1>O Movies</h1>
         </div>
         <div className="links-input">
